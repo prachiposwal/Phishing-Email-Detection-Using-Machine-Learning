@@ -2,6 +2,9 @@
 
 An end-to-end Machine Learning and Natural Language Processing (NLP) application for detecting phishing emails.
 
+## 🚀 Live Demo
+👉 **Live Application:**https://phishing-email-detection-using-machine-learning-gyjq4hybzyvw9k.streamlit.app
+
 ---
 
 ## 📌 Overview
